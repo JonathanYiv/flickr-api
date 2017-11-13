@@ -10,4 +10,4 @@ N/A.
 
 ## Post-Project Thoughts
 
-Currently Incomplete..
+N/A
